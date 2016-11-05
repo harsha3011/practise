@@ -1,0 +1,16 @@
+div{
+ width: 500px;
+ margin :auto;
+}
+body{
+			background-color: lightgrey;
+		}
+		.new{
+			border-color: white;
+			border-style: solid;
+			text-align: center;
+			width: 500px;
+			height: 30px;
+			padding: 10px;
+			border-width: .5px;
+		}

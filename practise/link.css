@@ -1,0 +1,9 @@
+a{color:red; text-decoration: none;}
+div{
+	margin: auto;
+	background: green;
+	width: 500px;
+	text-align: center;
+    border-style: groove;
+    border-color: black;
+}

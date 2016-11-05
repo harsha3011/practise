@@ -1,0 +1,22 @@
+.main{
+	width: 80%;
+	margin: auto;
+	min-width: 800px;
+	background: blue;
+}
+aside,.content{
+	height: 300px;
+}
+.content{
+	background: green;
+	float: left;
+	width: 90%;
+}
+aside{
+	background: red;
+	float: left;
+	width: 10%;
+}
+aside ul{
+	padding-left: 20px;
+}

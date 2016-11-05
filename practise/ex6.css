@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+	letter-spacing: -1x;
+	font-style: italic;
+	font-size: 100px;
+	font-family: monospace;
+	font-color:black;
+	text-shadow: 2px 5px 10px white,
+	5px 9px 15px green;
+
+	text-transform: lowercase;
+		font-variant: small-caps;
+}
+body{
+	background: black;
+}
